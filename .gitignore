@@ -1,0 +1,12 @@
+# All folders named node_modules
+**/node_modules
+
+# All files named .DS_Store
+**/.DS_Store
+
+# All files named .env
+**/.env
+
+# All folders named taget 
+**/target
+
